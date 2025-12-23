@@ -1,5 +1,3 @@
-
-
 def part_1(lines):
     max_x = len(lines) - 1
     max_y = len(lines[0]) - 1
