@@ -1,5 +1,3 @@
-from textwrap import fill
-
 part_1_invalid_ids = 0
 part_2_invalid_ids = 0
 
